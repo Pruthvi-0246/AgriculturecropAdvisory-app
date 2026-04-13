@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032324061830",
+    "project_id": "agriculture-crop-advisor-a3f97",
+    "storage_bucket": "agriculture-crop-advisor-a3f97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032324061830:android:17ca23d3e4d2a27e708f07",
+        "android_client_info": {
+          "package_name": "com.example.agriculturecropadvisoryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwI3VsieU8kEKn8z2Zn0VSeE3EMcMksuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

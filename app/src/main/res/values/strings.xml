@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agriculture Crop Advisory</string>
+    <string name="hello_user">Hello, %1$s</string>
+    <string name="crop_advisory">Crop Advisory</string>
+    <string name="weather">Weather</string>
+    <string name="market_prices">Market Prices</string>
+    <string name="pest_management">Pest Management</string>
+    <string name="fertilizer_advice">Fertilizer Advice</string>
+    <string name="get_recommendations">Get Recommendations</string>
+</resources>

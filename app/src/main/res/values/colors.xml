@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2E7D32</color>
+    <color name="primary_variant">#1B5E20</color>
+    <color name="secondary">#81C784</color>
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_background">#333333</color>
+    <color name="error">#E53935</color>
+
+    <!-- Agriculture Palette -->
+    <color name="soil_brown">#795548</color>
+    <color name="water_blue">#2196F3</color>
+    <color name="sun_yellow">#FFC107</color>
+    <color name="leaf_green">#4CAF50</color>
+</resources>
